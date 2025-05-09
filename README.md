@@ -1,4 +1,4 @@
-# HTTP/1.1 771 Page Take by a Kitty
+# HTTP/1.1 771 Page Taken by a Kitty
 
 **Status Code 771** is a non-standard HTTP response used to indicate that the requested page has been temporarily taken over for brainstorming purposes.
 
@@ -35,5 +35,5 @@ Retry-After: someday
 - Check the developer's [GitHub profile](https://github.com/roxiTheReal) for other projects.
 - Leave a star or a kind comment (encouragement helps brainstorming!)
 
-> [!NOTE]  
+**:information_source: Note**  
 > `771` is not part of any official HTTP specification. It's a community-defined status invented for fun and inspiration. If you're seeing this on a site, you're witnessing a moment of creative incubation.
