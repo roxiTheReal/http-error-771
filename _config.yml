@@ -1,5 +1,1 @@
-# Base configuration
-exclude: [".rvmrc", ".rbenv-version", "README.md", "changelog.md"]
-markdown: markdown
-highlighter: rouge
-permalink: pretty
+
