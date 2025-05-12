@@ -10,13 +10,10 @@ This playful yet meaningful status reflects a moment of creative pause–often a
 The server cannot fulfill the request because the resource is currently in a creative planning state. While no final content is yet available, this placeholder status acknowledges that something is in the works.
 
 ### Technical Definition
-|---
-|Concept|Definition/Value
-|:-|:-
-|Status Code|771
-|Meaning|Resource reserved for future content. Developer is in the process of brain storming.
-|Category|Informational/Developer-defined
-|`Retry-After`|When inspiration strikes
+- **Status Code:** 771
+- **Meaning:** Resource reserved for future content. Developer is in the process of brain storming.
+- **Category:** Informational/Developer-defined
+- **`Retry-After`:** When inspiration strikes
 
 ### Furry Context
 The 771 status was first adopted by a furry web developer who wanted a more expressive way to represent the early stage of a webpage's life cycle. Instead of a generic *"under construction"*, it acknowledges that the page is already in someone's paws–just not ready to share it yet.
@@ -36,5 +33,5 @@ Retry-After: someday
 - Check the developer's [GitHub profile](https://github.com/roxiTheReal) for other projects.
 - Leave a star or a kind comment (encouragement helps brainstorming!)
 
-**:information_source: Note**  
+**ℹ️ Note**  
 > `771` is not part of any official HTTP specification. It's a community-defined status invented for fun and inspiration. If you're seeing this on a site, you're witnessing a moment of creative incubation.
